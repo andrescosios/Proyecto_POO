@@ -1,0 +1,4 @@
+*Conclusiones utilizacion herramienta GIT*
+
+Git se muestra como una gran herramienta de apoyo para desarrolladores ya que nos permite mantener un control de versiones de los proyectos que realicemos para si en algún momento requerimos realizar cambios y necesitemos volver a una versión anterior la misa será de gran utilidad incluso para detectar errores en nuestro Código.
+Considero que dentro del mundo de desarrollo estas herramientas aportan gran utilidad ya que en integración con GITHUB también podemos usar nuestro proyecto donde queramos y a la vez solicitar colaboración en el mismo ya que al permitirnos subir a la nube y poder clonar el proyecto para poder ser utilizado por otros desarrolladores facilita el trabajo y la colaboración conjunta entre colegas y personas que quieran aportar a nuestro proyecto
